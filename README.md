@@ -1,6 +1,6 @@
 # Simple Expense Tracker Designed with React: 
 
-Live Demo : https://vibrant-elion-bcdd06.netlify.app
+View live version : https://hafid-expensetracker.netlify.app
 
 ## How to run locally: 
 
